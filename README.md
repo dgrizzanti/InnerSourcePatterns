@@ -13,6 +13,8 @@ You are already using InnerSource in your company and want to share your ideas a
 
 [isc-website]: http://innersourcecommons.org
 
+
+
 ## Mission Statement
 
 Our mission in this working group
